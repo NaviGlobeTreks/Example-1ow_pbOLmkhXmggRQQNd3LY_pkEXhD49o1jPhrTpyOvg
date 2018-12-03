@@ -15,13 +15,15 @@
         }, 
         "2": {
             "img": {
-                "cap1": "", 
-                "img1": "https://www.goodfreephotos.com/albums/united-states/colorado/other-colorado/clouds-over-the-lake-and-mountains-in-colorado.jpg"
+                "cap1": "Alternating green and purple bands of the Morroson FM", 
+                "cap2": "Artist rendering of the depositional enviroment", 
+                "img1": "http://www.jsjgeology.net/Dinosaur-Ridge_files/image008.jpg", 
+                "img2": "https://drive.google.com/uc?export=view&id=13k7OaasJxPu1OlPjUY0DxoApA9FheKP9 "
             }, 
             "main": "https://www.youtube.com/watch?v=hfP6YzVwORU", 
             "pagenumber": "2", 
-            "text": "Page with youtube", 
-            "title": "Youtube", 
+            "text": "The Morrison Formation is Upper Jurrassic in age ( million years old). It is the best layer for finding dinosaur bones in the Western United States. Made up of mudstone, sandstone, and siltstone, it is often easy to recognize due to the alternating green and purple bands of rocks. At Dinosaur Ridge, many of the bones are found in a sandstone with a very hard cement, making it extremely time consuming to get the bone out of the rock. The area was orginally a swamp when the sediment forming the rocks was deposited. Due to the swampy enviroment, the iron in the rock would either oxengenate or become anoxic, which accounts for the difference in color bands of rock.  ", 
+            "title": "Morrison Formation", 
             "youtube": ""
         }, 
         "3": {
