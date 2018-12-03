@@ -5,10 +5,10 @@
                 "cap1": "Test", 
                 "img1": "https://www.goodfreephotos.com/albums/united-states/colorado/other-colorado/clouds-over-the-lake-and-mountains-in-colorado.jpg"
             }, 
-            "main": "360:https://pannellum.org/images/alma.jpg", 
+            "main": "https://youtu.be/8y1bViFrHqI", 
             "pagenumber": "1", 
-            "text": "This is a page with a 360 Image", 
-            "title": "360 Photo", 
+            "text": "Dinosaur bones were first discoved by Aurthur Lakes in 1877. He was a school teacher in Golden, Colorado at the time. Upon his discovery, he sent samples of the bones to the 2 most experts of the time and waited. Watch the video to discover how nasty the wars became. Learning goals: Describe the Bone Wars. Explain why they stopped digging and moved the digs up to Como Bluff, WY", 
+            "title": "Dinosaur Wars", 
             "youtube": ""
         }, 
         "2": {
@@ -70,14 +70,14 @@
             "title": "360 Photo from google drive", 
             "youtube": "https://www.youtube.com/watch?v=hfP6YzVwORU"
         }, 
-        "auther": "Caleb Neel", 
-        "description": "This is an Example NaviGlobe Treks Project", 
-        "grade": "K-2", 
+        "auther": "Becky Shorey", 
+        "description": "A geologic tour of Dinosaur Ridge in Morrison Colorado. ", 
+        "grade": "9-12", 
         "id": "1ow_pbOLmkhXmggRQQNd3LY_pkEXhD49o1jPhrTpyOvg", 
-        "mimg": "https://www.goodfreephotos.com/albums/united-states/colorado/other-colorado/clouds-over-the-lake-and-mountains-in-colorado.jpg", 
+        "mimg": "https://c1.staticflickr.com/6/5666/21589195623_400a74f570_b.jpg", 
         "private": "False", 
         "subject": "Science", 
-        "title": "Example", 
+        "title": "Geology and History of Dinosaur Ridge", 
         "ver": "1.1"
     }
 }
