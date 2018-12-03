@@ -2,13 +2,15 @@
     "main": {
         "1": {
             "img": {
-                "cap1": "Test", 
-                "img1": "https://www.goodfreephotos.com/albums/united-states/colorado/other-colorado/clouds-over-the-lake-and-mountains-in-colorado.jpg"
+                "cap1": "Arthur Lakes", 
+                "cap2": "Slightly radiactive chuck of bone found in the Morrison FM", 
+                "img1": "https://coloradoencyclopedia.org/sites/default/files/Arthur%20Lakes%20Media%201.jpg", 
+                "img2": "https://lh3.googleusercontent.com/H26suzTzc3jujU1Q92ZlcmIE3S8KEiaRLXmkc7xuoiBpIySfr5EVcc4g7OHO9OOhjHQ3YfX7FrA2hTqIitOF65Qq332XEt-n55eQWR7LgPEqIES0sysFRclcZRKXyZ1wytiN6RXjTyfMzcIplcpcYrXM2_vP6pPIoYVcWVtTlV_c4SD0tEMhVrZbzBvmunXWYxayBmsYWpEfyUUhdgB7-f_o2LqTfR-z1Hf2alfcIA-bWMVfZ7s-HPtifNi5teQ6WMyZgANPkmFuSDwzMcAlt9IT9tPTuTa-tI0x9fDkqKoDVmswecb9uU5j1OK98W5KuTZT5i6y7qq0ckAK8hAwszB9F4lwRemTJQ3jK23gMkJg0tcoimeLPqtxa5Cc-8XBuczUeJ84NUiN0irdkXs4aQKKcsMyg5ip5nndu7TSr4gstgX6I91BN5voE-0oBb5jQMkiEgfRx-oDU55T-_Zdsi5oy10H1QyoSB1ymOKvSos4RGveXTcn2Rq6WBHwFi43OzdMcxC7K0sqml0jATNO6wwcjj49qoXpe2wEEwYIuvKsIWE0bsMowda4dCxTx540ECnTyL4fn_UA9zobl3XPhdOrNZO7DUPtEyH-vOrvG2IZyLcc6A8z5GFeOBe_25_D84Wt2pO7qxkO75Z_ZySNHkMFUA=w704-h938-no"
             }, 
             "main": "https://youtu.be/8y1bViFrHqI", 
             "pagenumber": "1", 
             "text": "Dinosaur bones were first discoved by Aurthur Lakes in 1877. He was a school teacher in Golden, Colorado at the time. Upon his discovery, he sent samples of the bones to the 2 most experts of the time and waited. Watch the video to discover how nasty the wars became. Learning goals: Describe the Bone Wars. Explain why they stopped digging and moved the digs up to Como Bluff, WY", 
-            "title": "Dinosaur Wars", 
+            "title": "Dinosaur Bone Wars", 
             "youtube": ""
         }, 
         "2": {
