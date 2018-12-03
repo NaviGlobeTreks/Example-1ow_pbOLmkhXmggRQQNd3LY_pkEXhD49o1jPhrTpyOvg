@@ -9,7 +9,7 @@
             }, 
             "main": "https://youtu.be/8y1bViFrHqI", 
             "pagenumber": "1", 
-            "text": "Dinosaur bones were first discoved by Aurthur Lakes in 1877. He was a school teacher in Golden, Colorado at the time. Upon his discovery, he sent samples of the bones to the 2 most experts of the time and waited. Watch the video to discover how nasty the wars became. Learning goals: Describe the Bone Wars. Explain why they stopped digging and moved the digs up to Como Bluff, WY", 
+            "text": "Dinosaur bones were first discoved by Aurthur Lakes in 1877. He was a school teacher in Golden, Colorado at the time. Upon his discovery, he sent samples of the bones to the 2 most experts of the time and waited. Watch the video to discover how nasty the wars became. Within the Morrison FM is a layer of \"brontosaurus buldge\". The long necked dinosaurs walked along in the soft mud, making footprints which later filled in. When the rocks were uplifted and the road was cut through, the side of the impressions became visible. Learning goals: Describe the Bone Wars. Explain why they stopped digging and moved the digs up to Como Bluff, WY. ", 
             "title": "Dinosaur Bone Wars", 
             "youtube": ""
         }, 
@@ -20,7 +20,7 @@
                 "img1": "http://www.jsjgeology.net/Dinosaur-Ridge_files/image008.jpg", 
                 "img2": "https://drive.google.com/uc?export=view&id=13k7OaasJxPu1OlPjUY0DxoApA9FheKP9 "
             }, 
-            "main": "https://www.youtube.com/watch?v=hfP6YzVwORU", 
+            "main": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1543872079060!6m8!1m7!1sCAoSLEFGMVFpcE5xcHJUZHpKZzBBODhaLTlNZzRGUVdZOWNoTzlkRmRKcE9rSGdf!2m2!1d39.6776733!2d-105.1941757!3f71.29033248605248!4f-4.304501860117583!5f0.7820865974627469\" width=\"800\" height=\"600\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>", 
             "pagenumber": "2", 
             "text": "The Morrison Formation is Upper Jurrassic in age ( million years old). It is the best layer for finding dinosaur bones in the Western United States. Made up of mudstone, sandstone, and siltstone, it is often easy to recognize due to the alternating green and purple bands of rocks. At Dinosaur Ridge, many of the bones are found in a sandstone with a very hard cement, making it extremely time consuming to get the bone out of the rock. The area was orginally a swamp when the sediment forming the rocks was deposited. Due to the swampy enviroment, the iron in the rock would either oxengenate or become anoxic, which accounts for the difference in color bands of rock.  ", 
             "title": "Morrison Formation", 
