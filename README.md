@@ -17,8 +17,10 @@
             "img": {
                 "cap1": "Alternating green and purple bands of the Morroson FM", 
                 "cap2": "Artist rendering of the depositional enviroment", 
+                "cap3": "Brontosaurus bulges", 
                 "img1": "http://www.jsjgeology.net/Dinosaur-Ridge_files/image008.jpg", 
-                "img2": "https://drive.google.com/uc?export=view&id=13k7OaasJxPu1OlPjUY0DxoApA9FheKP9 "
+                "img2": "https://drive.google.com/uc?export=view&id=13k7OaasJxPu1OlPjUY0DxoApA9FheKP9 ", 
+                "img3": "https://lh3.googleusercontent.com/ISq0Yf2s0wThnXFjdd-4Gc2iNC-uc2CR5FmSi-kJp0UBgB2oCreKM28R9_Nk4Eyu_Xjr6-rTk4FQt3sdr79a4FHgDwqwF3qnGZXxRZIDJOCk2NcyL_Ole1hhTktpYMd-4dVDOCE8Ya578PSj-UYwKFisilYOWrqZoFyrL9Fo8e9xBxwUBz1aExfoDx8xqP9qLrtBnAt_nN44xQwqst8or3m3SUhMqxQl_QFPyASBrFbg2txu3tUFYm2B0BrDjP_kYu-DEpPvA2Y71zfBXA5fWIQafmNE_0D6oFsdUXFZmJaiaf39ezBSFO2eOmWWex6w2-SxU0KJeVlQoxzzwLCvJsenCiPoXMWCjDP-uad8yq3aR1dKq9V2dkR6zAY8PU8HlI-jTt-SyXMn82kAbLQdon5Kf1EqE6DE5js-afm6zUyYfcjg7fOzERhVRRNB8GFc41nuKECuEUop1xMwHL0TjVN7aRbLSa37DKPKEU2i4CvWNz5A8z_OwgEYqAUT2nO34IFNmS7dHtdAUuTo0YT-RFDhk6FN0dAAInvZxOVHZjGpvG4bq8bauo5vstBWPZ7Ffbob4gjZxB0V1CaM5kVqRIccxxwIHSZnr7QpQFI34B23UOXBX0d34bD4Zev41wpMl2xiMljutjQ2tnK3cvASxntN-w=w2108-h1580-no"
             }, 
             "main": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1543872079060!6m8!1m7!1sCAoSLEFGMVFpcE5xcHJUZHpKZzBBODhaLTlNZzRGUVdZOWNoTzlkRmRKcE9rSGdf!2m2!1d39.6776733!2d-105.1941757!3f71.29033248605248!4f-4.304501860117583!5f0.7820865974627469\" width=\"800\" height=\"600\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>", 
             "pagenumber": "2", 
