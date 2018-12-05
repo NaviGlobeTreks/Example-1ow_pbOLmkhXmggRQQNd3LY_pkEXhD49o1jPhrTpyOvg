@@ -76,6 +76,19 @@
             "title": "Trace Fossils", 
             "youtube": "https://www.youtube.com/watch?v=hfP6YzVwORU"
         }, 
+        "7": {
+            "img": {
+                "cap1": "", 
+                "cap2": "Types of footprints", 
+                "img1": "https://lh3.googleusercontent.com/vbz4yheFNMeD6MfFI40an9ob7KK7Mrwi8DDKFtiV9j8-jMGHDBnJTiWdjNcxuH2KpeaPOlkbP9c2C05KVk7E9V-I_8U8Jq9WlPfMZ8JfeL_cZiAvw8eRbt7uHc-SkP3P6SB7lAridsl1we1KdInv73-0NXCsAVcj2IeQvK4QkW7B0_dJiNR9573igmlxkF5fjqxdZTt4KtQinNQdPsHu2IrHr-GbQjOz5TfjrmuT6-z8hCk2HkYfg9H5C5Q9PZ2qGtmteuCb1XGF3gy7FEIyddksFlKwDB_XqPqPjEvOIRBMLHCcTuC7vFDeCIaRcD9pkAmCVNk-S8bsg8OmGQ4r3K8pcNziaOFM3SUqshCW6Q3MaNJsZZcXP5VVKogm5s-pYB68mhgJKsYcXc0jkBb6W0l2N0LGywGenNAPc9T3P_weHHoV1MKfRTW87FADWbIKrgeBe2Oh3s4KLdh3zALIWSjrh60RpHg8n9zWaI3R0dWLqANslc1eFcnObYUaLa4diZB47EWxKTs3mwleqgFrcodFyzN2CmQpEkTxSAmJOXNlJ932yS-T3oNKGqQU0gqRuPk1vKtuf2cDvs7z9IIBKJvlN_dZEH86XCNzYQQvDX3MhFiCxOg28lo5wVzRitAcX7tOhs9yvSmGgYMysG7FwrGBOU5FYBBGZeHbFnwtzNCgDryjFvpEvbs5EiwMP0lqKkd7bSfeVnLvJ6sWCg=w2373-h1583-no", 
+                "img2": "https://drive.google.com/uc?export=view&id=1QJv03iwD5ibLof-qSczFMXQ_acEWmhc2 "
+            }, 
+            "main": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1543975473196!6m8!1m7!1sCAoSLEFGMVFpcE9qZU9HeW8wcGpvbXpRLWJMQ3ZBMGI4RTdXNkRmamJRSllOem8z!2m2!1d39.680905703328!2d-105.19228998923!3f315.77277434654445!4f9.038643443417754!5f0.7820865974627469\" width=\"800\" height=\"600\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>", 
+            "pagenumber": "7", 
+            "text": "One of the longest trackways in North America. The tracks contain Iguanadon and a therapod. If you look closely you can see the wide three toes of the iguanidon with a small \"dot\".  Next to it is a much smaller print, assumed to be an infant. The \"dot\" is for the mother walking slower with her front limbs on the ground. ", 
+            "title": "Trackway", 
+            "youtube": ""
+        }, 
         "auther": "Becky Shorey", 
         "description": "A geologic tour of Dinosaur Ridge in Morrison Colorado. ", 
         "grade": "9-12", 
