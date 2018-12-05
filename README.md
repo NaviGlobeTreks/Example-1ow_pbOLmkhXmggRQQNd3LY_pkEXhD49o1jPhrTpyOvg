@@ -36,7 +36,7 @@
             "main": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1543871120474!6m8!1m7!1sCAoSLEFGMVFpcFA1R19nQnZSREcwcGo1bUJ5UldWczlkYUdWSERQZVBEbV9LcDdD!2m2!1d39.6757015!2d-105.1927101!3f268.5473910925631!4f16.554718928405563!5f0.7820865974627469\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>", 
             "pagenumber": "3", 
             "text": "Moving up the hill, the age is now 103 million years ago and you come to a layer of ash. Scientists know the exact age of the rock due to the zircon crystals in it that allow them to get a very precise age. ", 
-            "title": "Ash beds", 
+            "title": "Ash Beds", 
             "youtube": "https://youtu.be/fx3BqQ44zDE"
         }, 
         "4": {
@@ -44,10 +44,10 @@
                 "cap1": "", 
                 "img1": "https://pre00.deviantart.net/a5c4/th/pre/f/2012/148/f/6/cool_background_by_harrywolke5-d51eq6a.jpg"
             }, 
-            "main": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1537543002737!6m8!1m7!1sCAoSLEFGMVFpcE01b01tLUNzZ1NwNjFYRkYya2lQbkpyXzlJS0g5TnpKSmZBOV8w!2m2!1d39.694652!2d-105.200019!3f39.98793916369176!4f2.9702229346883087!5f0.7820865974627469\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>", 
+            "main": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1543970899449!6m8!1m7!1sCAoSLEFGMVFpcFBJWWZEelc4WVZJQWpOSXMxcWxhbEJ5QWV0U1pRQjBIazNZSTVF!2m2!1d39.6757224!2d-105.1920882!3f67.74036468607324!4f0!5f0.7820865974627469\" width=\"800\" height=\"600\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>", 
             "pagenumber": "4", 
-            "text": "Page with a map", 
-            "title": "Map", 
+            "text": "Looking to the East, you will see the highway C-470", 
+            "title": "Denver Basin", 
             "youtube": ""
         }, 
         "5": {
@@ -60,7 +60,7 @@
             "main": "https://drive.google.com/file/d/1CA8Q1RTkxu3KrFGpyLD8WO6K5P1rwfR6/view?usp=sharing", 
             "pagenumber": "5", 
             "text": "Page with google drive images", 
-            "title": "Google Drive IMG", 
+            "title": "Ripple Marks", 
             "youtube": ""
         }, 
         "6": {
@@ -73,7 +73,7 @@
             "main": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d175181.47271958273!2d-105.15786531809326!3d39.723730366283654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1537548804126\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>", 
             "pagenumber": "6", 
             "text": "360 Img from Google drive", 
-            "title": "360 Photo from google drive", 
+            "title": "Trace Fossils", 
             "youtube": "https://www.youtube.com/watch?v=hfP6YzVwORU"
         }, 
         "auther": "Becky Shorey", 
