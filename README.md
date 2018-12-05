@@ -46,16 +46,16 @@
             }, 
             "main": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1543970899449!6m8!1m7!1sCAoSLEFGMVFpcFBJWWZEelc4WVZJQWpOSXMxcWxhbEJ5QWV0U1pRQjBIazNZSTVF!2m2!1d39.6757224!2d-105.1920882!3f67.74036468607324!4f0!5f0.7820865974627469\" width=\"800\" height=\"600\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>", 
             "pagenumber": "4", 
-            "text": "Looking to the East, you will see the highway C-470", 
+            "text": "Looking to the East, you will see the highway C-470 which follows the approximate location of the Golden Fault which displaced the rocks on the West over 2 vertical miles upward. When the rocks were uplifted, the rocks along the fault were bent upward and the more resistant rocks forming the ridge remain exposed. ", 
             "title": "Denver Basin", 
             "youtube": ""
         }, 
         "5": {
             "img": {
-                "cap1": "", 
-                "cap2": "", 
-                "img1": "https://drive.google.com/uc?export=view&id=1CA8Q1RTkxu3KrFGpyLD8WO6K5P1rwfR6 ", 
-                "img2": "https://drive.google.com/uc?export=view&id=1cNrWlJNpossS0esh0xe9llHUnRU6dxdu "
+                "cap1": "Ripple marks in the Dakota Formation", 
+                "cap2": "Symetrical ripple marks: Indicates that water was moving in and out at equal rates, like at the coast along the beech. ", 
+                "img1": "https://lh3.googleusercontent.com/Zvx0gtIhcVTVwKCsivWYhhzrnPPukBmKC4l84Lv8PPyz9FnV9Mik0qgeC9y3nkLlT3irh9HW-Z_y38aJ8qDDK1Hx6jmHmFto8VceoObqibt_sUHs6S9jtWt4CaLZkKkc5zcnVYfuskWs5fnz9N05jhdAdwFxEt5dOi9k3q2wTbx7qOijuMJFkP-ostIyRyEatuxYRtgUe90rkIEN_-fxyE36ukuwpvb2SNfQYGfAXzvDlb06t_SXppDvKLgnNfZJbjYWjNO22LsyOpI0wLBOTuuchv63Tgh-Ug3uYzPAT3US4kuxzamOQJRPzjCn0FDUwJX4qB3yDFWVEI7jtTlD8fsljPV7yFFpUeEhRVTioTLmbFEVFonkxYsTefXu8DsaJN8knqZN3Ktnp3NglE8Kz2jbeGc2jIxzt8k6CXSIWcBZCYQ5l-RmlMXakAjCzz6Qx2vNhHOYDqbYben8bb1mt82kES-XDpMRft667Y08-TMiiZjEMV4kKqmF92md6StNYC8WjMFQPrE1BIqKwmPPm5uCeL3IMcrywUD9i0ivGZTAASEPRs0_JTq8VhBsguAUUnnUkweev0VKL_dWrwAJjt1U3N-Wz_7d4sKxzXuxusvRUIcLHYWMPagjsSDFC4NmOiHBdBVCDyU_gpQg5kCwjuNbgBTLaALecAyJUJ4WI7WzjsV4zHre1kOVr22K49UTRB-N_MgeJb_xNekxdg=w2373-h1583-no", 
+                "img2": "https://lh3.googleusercontent.com/pdZXnyjvgD4UAAPzucXn_fASPPEy99GUZe1fdAJTxDb92ZzgWMFcwwHfaNjjQYIBTDxS9AFgohnKyjyq7W0mtZnP9dmIAA1UTi8Y5nLcbcaRLwSA8-hT8QBRQCLIBOCRWLuqGmejyZyxJM6BUCWLZQsJRX2smZPhhO8HTwB7XsV0UwqFbjhu3Sm5nFAyzT1C8TJiqenLQFerDlVPEh94SMdpjCl3jrUkqzCKeIfIJaLTLUa3DtWnnHLvaZ-YKH1fZ8S2r6nt6Vo7J678zcmHQCiJ2M9KVk2MhXutVRrnT7rngCWH0B1ZyTgtvFerDbCBk7tqPFyRQ0OxK48LSDKwORf0fVOWIO-1AszJyaYT_5R-8IB4cx6t3vxtA3rKx8EtXTAWR_C3QMvVXNh11Bm34V5qUeJtOHz8YXK_QLgPOszjD6QwkIalb4nX45_wwDjUBqCEkXUyiLrsPl8sa3z1uhKp6fA6XIUv-hzqHhnVRexp9vaZsscuE7ad0nUKpp1qOJDPca1Ln99SieWurybEW_KPtq3bTAFxRFnTL0Lj-CEJBcwRuuGfel4_mmv5w_KlFd__OP_SjFbynwYBkBn7mvWytRa4BY0fPlF0SAVLSpR5TsxnAhLsTSf4bc3mxpKBvoCVhJylEuUqHNZlZvK2HiQo5L3yQvTbNKfpipj4Op7tNx-BAUNstEO2gR3LbiiVjFEpbIhF8U5jrr8hTw=w477-h318-no"
             }, 
             "main": "https://drive.google.com/file/d/1CA8Q1RTkxu3KrFGpyLD8WO6K5P1rwfR6/view?usp=sharing", 
             "pagenumber": "5", 
