@@ -59,7 +59,7 @@
             }, 
             "main": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1543975119822!6m8!1m7!1sCAoSLEFGMVFpcFA3Z1ZsRHF6Ry1rdmZtcXJ5SDkxVU1iTzBCUzZrS0picllnTDVh!2m2!1d39.67641030002937!2d-105.1921192999227!3f239.61283107673637!4f-8.179637241820032!5f0.4091170642973259\" width=\"800\" height=\"600\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>", 
             "pagenumber": "5", 
-            "text": "Page with google drive images", 
+            "text": "", 
             "title": "Ripple Marks", 
             "youtube": ""
         }, 
