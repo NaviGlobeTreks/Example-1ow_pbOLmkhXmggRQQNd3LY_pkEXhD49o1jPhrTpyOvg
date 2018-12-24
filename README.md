@@ -37,7 +37,7 @@
             "pagenumber": "3", 
             "text": "Moving up the hill, the age is now 103 million years ago and you come to a layer of ash. Scientists know the exact age of the rock due to the zircon crystals in it that allow them to get a very precise age. ", 
             "title": "Ash Beds", 
-            "youtube": "https://youtu.be/fx3BqQ44zDE"
+            "youtube": ""
         }, 
         "4": {
             "img": {
