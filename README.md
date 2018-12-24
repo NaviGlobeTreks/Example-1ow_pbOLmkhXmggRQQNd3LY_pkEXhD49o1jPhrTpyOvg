@@ -41,8 +41,8 @@
         }, 
         "4": {
             "img": {
-                "cap1": "", 
-                "img1": "https://pre00.deviantart.net/a5c4/th/pre/f/2012/148/f/6/cool_background_by_harrywolke5-d51eq6a.jpg"
+                "cap1": "The Golden Fault runs along the highway and dragged the rocks on the East side upwards. When it was bent upward, it created the Denver Basin. ", 
+                "img1": "https://drive.google.com/uc?export=view&id=1tOr8HW8V-VbTIwLhny2o-zEl_hyzUd_b "
             }, 
             "main": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1543970899449!6m8!1m7!1sCAoSLEFGMVFpcFBJWWZEelc4WVZJQWpOSXMxcWxhbEJ5QWV0U1pRQjBIazNZSTVF!2m2!1d39.6757224!2d-105.1920882!3f67.74036468607324!4f0!5f0.7820865974627469\" width=\"800\" height=\"600\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>", 
             "pagenumber": "4", 
