@@ -54,8 +54,10 @@
             "img": {
                 "cap1": "Ripple marks in the Dakota Formation", 
                 "cap2": "Symetrical ripple marks: Indicates that water was moving in and out at equal rates, like at the coast along the beech. ", 
+                "cap3": "Western Interior Cretaceous Seaway", 
                 "img1": "https://lh3.googleusercontent.com/Zvx0gtIhcVTVwKCsivWYhhzrnPPukBmKC4l84Lv8PPyz9FnV9Mik0qgeC9y3nkLlT3irh9HW-Z_y38aJ8qDDK1Hx6jmHmFto8VceoObqibt_sUHs6S9jtWt4CaLZkKkc5zcnVYfuskWs5fnz9N05jhdAdwFxEt5dOi9k3q2wTbx7qOijuMJFkP-ostIyRyEatuxYRtgUe90rkIEN_-fxyE36ukuwpvb2SNfQYGfAXzvDlb06t_SXppDvKLgnNfZJbjYWjNO22LsyOpI0wLBOTuuchv63Tgh-Ug3uYzPAT3US4kuxzamOQJRPzjCn0FDUwJX4qB3yDFWVEI7jtTlD8fsljPV7yFFpUeEhRVTioTLmbFEVFonkxYsTefXu8DsaJN8knqZN3Ktnp3NglE8Kz2jbeGc2jIxzt8k6CXSIWcBZCYQ5l-RmlMXakAjCzz6Qx2vNhHOYDqbYben8bb1mt82kES-XDpMRft667Y08-TMiiZjEMV4kKqmF92md6StNYC8WjMFQPrE1BIqKwmPPm5uCeL3IMcrywUD9i0ivGZTAASEPRs0_JTq8VhBsguAUUnnUkweev0VKL_dWrwAJjt1U3N-Wz_7d4sKxzXuxusvRUIcLHYWMPagjsSDFC4NmOiHBdBVCDyU_gpQg5kCwjuNbgBTLaALecAyJUJ4WI7WzjsV4zHre1kOVr22K49UTRB-N_MgeJb_xNekxdg=w2373-h1583-no", 
-                "img2": "https://lh3.googleusercontent.com/pdZXnyjvgD4UAAPzucXn_fASPPEy99GUZe1fdAJTxDb92ZzgWMFcwwHfaNjjQYIBTDxS9AFgohnKyjyq7W0mtZnP9dmIAA1UTi8Y5nLcbcaRLwSA8-hT8QBRQCLIBOCRWLuqGmejyZyxJM6BUCWLZQsJRX2smZPhhO8HTwB7XsV0UwqFbjhu3Sm5nFAyzT1C8TJiqenLQFerDlVPEh94SMdpjCl3jrUkqzCKeIfIJaLTLUa3DtWnnHLvaZ-YKH1fZ8S2r6nt6Vo7J678zcmHQCiJ2M9KVk2MhXutVRrnT7rngCWH0B1ZyTgtvFerDbCBk7tqPFyRQ0OxK48LSDKwORf0fVOWIO-1AszJyaYT_5R-8IB4cx6t3vxtA3rKx8EtXTAWR_C3QMvVXNh11Bm34V5qUeJtOHz8YXK_QLgPOszjD6QwkIalb4nX45_wwDjUBqCEkXUyiLrsPl8sa3z1uhKp6fA6XIUv-hzqHhnVRexp9vaZsscuE7ad0nUKpp1qOJDPca1Ln99SieWurybEW_KPtq3bTAFxRFnTL0Lj-CEJBcwRuuGfel4_mmv5w_KlFd__OP_SjFbynwYBkBn7mvWytRa4BY0fPlF0SAVLSpR5TsxnAhLsTSf4bc3mxpKBvoCVhJylEuUqHNZlZvK2HiQo5L3yQvTbNKfpipj4Op7tNx-BAUNstEO2gR3LbiiVjFEpbIhF8U5jrr8hTw=w477-h318-no"
+                "img2": "https://lh3.googleusercontent.com/pdZXnyjvgD4UAAPzucXn_fASPPEy99GUZe1fdAJTxDb92ZzgWMFcwwHfaNjjQYIBTDxS9AFgohnKyjyq7W0mtZnP9dmIAA1UTi8Y5nLcbcaRLwSA8-hT8QBRQCLIBOCRWLuqGmejyZyxJM6BUCWLZQsJRX2smZPhhO8HTwB7XsV0UwqFbjhu3Sm5nFAyzT1C8TJiqenLQFerDlVPEh94SMdpjCl3jrUkqzCKeIfIJaLTLUa3DtWnnHLvaZ-YKH1fZ8S2r6nt6Vo7J678zcmHQCiJ2M9KVk2MhXutVRrnT7rngCWH0B1ZyTgtvFerDbCBk7tqPFyRQ0OxK48LSDKwORf0fVOWIO-1AszJyaYT_5R-8IB4cx6t3vxtA3rKx8EtXTAWR_C3QMvVXNh11Bm34V5qUeJtOHz8YXK_QLgPOszjD6QwkIalb4nX45_wwDjUBqCEkXUyiLrsPl8sa3z1uhKp6fA6XIUv-hzqHhnVRexp9vaZsscuE7ad0nUKpp1qOJDPca1Ln99SieWurybEW_KPtq3bTAFxRFnTL0Lj-CEJBcwRuuGfel4_mmv5w_KlFd__OP_SjFbynwYBkBn7mvWytRa4BY0fPlF0SAVLSpR5TsxnAhLsTSf4bc3mxpKBvoCVhJylEuUqHNZlZvK2HiQo5L3yQvTbNKfpipj4Op7tNx-BAUNstEO2gR3LbiiVjFEpbIhF8U5jrr8hTw=w477-h318-no", 
+                "img3": "https://drive.google.com/uc?export=view&id=1B2eeoBrnNsStLZbjsi2azTfGgQ1v3mjF "
             }, 
             "main": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1543975119822!6m8!1m7!1sCAoSLEFGMVFpcFA3Z1ZsRHF6Ry1rdmZtcXJ5SDkxVU1iTzBCUzZrS0picllnTDVh!2m2!1d39.67641030002937!2d-105.1921192999227!3f239.61283107673637!4f-8.179637241820032!5f0.4091170642973259\" width=\"800\" height=\"600\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>", 
             "pagenumber": "5", 
@@ -87,6 +89,17 @@
             "pagenumber": "7", 
             "text": "One of the longest trackways in North America. The tracks contain Iguanadon and a therapod. If you look closely you can see the wide three toes of the iguanidon with a small \"dot\".  Next to it is a much smaller print, assumed to be an infant. The \"dot\" is for the mother walking slower with her front limbs on the ground. ", 
             "title": "Trackway", 
+            "youtube": ""
+        }, 
+        "8": {
+            "img": {
+                "cap1": "", 
+                "img1": "https://drive.google.com/uc?export=view&id=1B2eeoBrnNsStLZbjsi2azTfGgQ1v3mjF "
+            }, 
+            "main": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1545163272800!6m8!1m7!1sCAoSLEFGMVFpcFBiMVgxSzJ2MGFNZUw0VG9IcFA2TnR1bV9mNjVfQjA2RGVVUnVU!2m2!1d39.6816702!2d-105.1923939!3f330.3574762608488!4f-12.490771737688974!5f0.7820865974627469\" width=\"800\" height=\"600\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>", 
+            "pagenumber": "8", 
+            "text": "", 
+            "title": "Benton Shale", 
             "youtube": ""
         }, 
         "auther": "Becky Shorey", 
