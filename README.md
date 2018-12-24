@@ -30,14 +30,14 @@
         }, 
         "3": {
             "img": {
-                "cap1": "Ash layers", 
-                "img1": "https://lh3.googleusercontent.com/URspq6N4VAb-6R9QkQrmlZdzmrcoLiT3Joa-yPmIZo-op8xv3FoCFnZMnkd08ksn2118OzTMu08xl9PErbsHls0KngDDdyFwUsJE7n-GNAFJgLdZWUdf8_8Fnd3cPh7FbVWbvln7zm_L6yn3_Jsf78LRSv1fhP1195VayHOThQGvHLbfXJjLHyAUArNiRf8GHZsZLStBDrdRNnVu1zteTHD7GdWYXrafxyzXkqvMz1OWWW0viPzNaRMTEvQ3EauO5Xy7yxJyBW10kWHYoRARxuMh8xyWcoltgZz-QayNlEfklvdPMoPP1YwFPE5eKhQQ5MhJ_mpGUfejKpWgL0ybyZ3NKLJBPyHy8NBsgc__-OgbYoSRtZB9pUc17SHbfVKonORuYDLUiWi13ytwDcYwH6PIwu-ArHaT9gXq94o1vzgMuOBhZneEYGmgYncJI-eB36SwzYfl9zr1H_aZ3hUgxr6eMNmM7bS4cMZTOBikQjQh6w3reO40k1nIkHRj86L1eGs0heqmqKwpAMv1OABmB9os2E4QMXgaL3DNfgfvGGPbUYcltB5d8CNFqCFKbcgKdGa9SftSeMpdck9v4v5dEBJHW7Ma-PKWesr5EJEbfsSTZP1mU9qtaiqaGpFBDCaVg1EI_4jtOISNZzr3VS4hBpqzVw=w272-h203-no"
+                "cap1": "to delete later", 
+                "img1": "https://drive.google.com/uc?export=view&id=1pL2NSpNob8GdZl_y7GlfLVV80-1eDSLd "
             }, 
             "main": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1543871120474!6m8!1m7!1sCAoSLEFGMVFpcFA1R19nQnZSREcwcGo1bUJ5UldWczlkYUdWSERQZVBEbV9LcDdD!2m2!1d39.6757015!2d-105.1927101!3f268.5473910925631!4f16.554718928405563!5f0.7820865974627469\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>", 
             "pagenumber": "3", 
             "text": "Moving up the hill, the age is now 103 million years ago and you come to a layer of ash. Scientists know the exact age of the rock due to the zircon crystals in it that allow them to get a very precise age. ", 
             "title": "Ash Beds", 
-            "youtube": ""
+            "youtube": "https://youtu.be/fx3BqQ44zDE"
         }, 
         "4": {
             "img": {
